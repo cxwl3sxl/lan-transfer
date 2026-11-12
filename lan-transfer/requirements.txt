@@ -1,0 +1,4 @@
+qrcode>=7.0
+# 托盘模式（--windowed）可选依赖：
+pystray>=0.19.0
+pillow>=10.0

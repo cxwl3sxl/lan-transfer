@@ -1,0 +1,9 @@
+# 构建产物
+dist/
+build/
+*.spec
+__pycache__/
+
+# 开发/测试数据目录（--data-dir 指定的开发目录，避免提交测试数据）
+.devdata/
+.workbuddy
